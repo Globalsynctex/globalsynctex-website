@@ -19,5 +19,5 @@ tbody tr:last-child td{border-bottom:0}td:first-child{font-weight:600;white-spac
 footer{border-top:1px solid #d9e0ec}footer .w{padding:22px 20px;font-size:14px;color:#4b5466}
 @media(max-width:600px){td:first-child{white-space:normal}th,td{padding:11px 12px}}
 
-h1,h2{font-family:"Playfair Display",Georgia,serif;letter-spacing:-.01em;font-weight:800}
+h1,h2{font-family:"Playfair Display",Georgia,serif;letter-spacing:-.005em;font-weight:500}
 .btn,header .cta{border-radius:999px}
