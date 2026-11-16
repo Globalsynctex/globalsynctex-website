@@ -3,72 +3,124 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://globalsynctex.com/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-ol-01-large.webp</image:loc>
-      <image:title>Ultralight ripstop fabric sample, GSS-OL-01</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-01.webp</image:loc>
+      <image:title>Workwear buyer brief: Workwear: AW28 / SS28 fabric and garment concepts</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-ol-02-large.webp</image:loc>
-      <image:title>Lightweight ripstop fabric sample, GSS-OL-02</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-02.webp</image:loc>
+      <image:title>Workwear buyer brief: 07 workwear concepts built around three buyer priorities</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-ol-03-large.webp</image:loc>
-      <image:title>Coated plain weave fabric sample, GSS-OL-03</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-03.webp</image:loc>
+      <image:title>Workwear buyer brief: Seven workwear concepts at a glance</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-ol-04-large.webp</image:loc>
-      <image:title>Performance ripstop fabric sample, GSS-OL-04</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-04.webp</image:loc>
+      <image:title>Workwear buyer brief: Concept 01 · High-visibility, 300 GSM</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-ol-05-large.webp</image:loc>
-      <image:title>Stretch plain weave fabric sample, GSS-OL-05</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-05.webp</image:loc>
+      <image:title>Workwear buyer brief: Concept 02 · Sustainable high-duty, 150 GSM</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-ol-06-large.webp</image:loc>
-      <image:title>Laminated twill fabric sample, GSS-OL-06</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-06.webp</image:loc>
+      <image:title>Workwear buyer brief: Concept 03 · Tear-resistant, 243 GSM</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-ol-07-large.webp</image:loc>
-      <image:title>Stretch dobby fabric sample, GSS-OL-07</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-07.webp</image:loc>
+      <image:title>Workwear buyer brief: Concept 04 · Industrial rainwear, 130–220 GSM</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-cl-01-large.webp</image:loc>
-      <image:title>Bonded softshell fabric sample, GSS-CL-01</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-08.webp</image:loc>
+      <image:title>Workwear buyer brief: Concept 05 · Comfort hi-vis, 160–220 GSM</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-cl-02-large.webp</image:loc>
-      <image:title>Waterproof coated fabric fabric sample, GSS-CL-02</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-09.webp</image:loc>
+      <image:title>Workwear buyer brief: Concept 06 · Sustainable safety, 200–280 GSM</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-cl-03-large.webp</image:loc>
-      <image:title>Knit + TPU membrane laminate fabric sample, GSS-CL-03</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-10.webp</image:loc>
+      <image:title>Workwear buyer brief: Concept 07 · Industrial-wash, 240–300 GSM</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-cl-04-large.webp</image:loc>
-      <image:title>Thin, soft PUL fabric fabric sample, GSS-CL-04</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-11.webp</image:loc>
+      <image:title>Workwear buyer brief: Fabric and weight overview</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-hv-01-large.webp</image:loc>
-      <image:title>Hi-vis warp-knit mesh fabric sample, GSS-HV-01</image:title>
+      <image:loc>https://globalsynctex.com/brief-workwear-12.webp</image:loc>
+      <image:title>Workwear buyer brief: Test first, then certify</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-hv-02-large.webp</image:loc>
-      <image:title>Hi-vis coated woven fabric sample, GSS-HV-02</image:title>
+      <image:loc>https://globalsynctex.com/brief-outerwear-01.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Outerwear &amp; Bottoms Collection: AW28 / SS28</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-hv-03-large.webp</image:loc>
-      <image:title>Hi-vis pique knit fabric sample, GSS-HV-03</image:title>
+      <image:loc>https://globalsynctex.com/brief-outerwear-02.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: 27 woven qualities across three fibre series</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-hv-04-large.webp</image:loc>
-      <image:title>Hi-vis birdseye knit fabric sample, GSS-HV-04</image:title>
+      <image:loc>https://globalsynctex.com/brief-outerwear-03.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Five ways the collection sells</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://globalsynctex.com/gss-hv-05-large.webp</image:loc>
-      <image:title>Hi-vis two-sided woven fabric sample, GSS-HV-05</image:title>
+      <image:loc>https://globalsynctex.com/brief-outerwear-04.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Nylon series · 10 qualities, 36–182 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-05.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Nylon end uses</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-06.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Polyester series · 10 qualities, 72–135 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-07.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Polyester end uses</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-08.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Recycled polyester series · 7 qualities, 88–157 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-09.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Recycled polyester end uses</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-10.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Six garment development concepts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-11.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Concept 01 · Thermal midlayer, 125–310 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-12.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Concept 02 · Softshell, 220–320 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-13.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Concept 03 · Waterproof shell, 130–220 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-14.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Concept 04 · Ultralight ripstop, 17–68 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-15.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Concept 05 · Cycling apparel, 94–110 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-16.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Concept 06 · Cotton membrane shell, 180–260 GSM</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://globalsynctex.com/brief-outerwear-17.webp</image:loc>
+      <image:title>Outerwear and outdoor buyer brief: Test first, then certify</image:title>
     </image:image>
   </url>
   <url>
