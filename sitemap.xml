@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://globalsynctex.com/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -143,5 +143,13 @@
   <url>
     <loc>https://globalsynctex.com/stretch-fabric-trekking-pants-india.html</loc>
     <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://globalsynctex.com/how-to-choose-textile-sourcing-agent-india.html</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://globalsynctex.com/textile-sourcing-agent-india-commission-fees.html</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
 </urlset>

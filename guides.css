@@ -21,3 +21,8 @@ footer{border-top:1px solid #d9e0ec}footer .w{padding:22px 20px;font-size:14px;c
 
 h1,h2{font-family:"Playfair Display",Georgia,serif;letter-spacing:-.005em;font-weight:500}
 .btn,header .cta{border-radius:999px}
+
+.byline{font-size:14px;color:#4b5466;margin:0 0 22px}
+main ul,main ol{padding-left:1.3em}main li{margin:6px 0}
+h3{font-size:18px;margin:26px 0 6px;letter-spacing:-.01em}
+.src{margin-top:36px;font-size:13px;color:#4b5466}.src a{color:#4b5466}
