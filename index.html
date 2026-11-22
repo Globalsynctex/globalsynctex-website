@@ -945,6 +945,9 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
     .net-card ul li::marker{color:var(--brand)}
     .net-why{margin:auto 0 0;padding-top:12px;border-top:1px dashed var(--line);font-size:15px;line-height:1.55;color:var(--muted)}
     .net-why b{color:var(--ink)}
+    .net-wide{grid-column:1/-1}
+    .net-wide ul{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:28px}
+    @media (max-width:900px){.net-wide ul{grid-template-columns:1fr}}
     .net-strip{margin-top:22px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
     .net-stat{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
     .net-stat b{display:block;font-size:17px;line-height:1.3}
@@ -960,7 +963,7 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
         <p class="intro">We don&rsquo;t source from whoever answers the phone. Our partner network includes some of India&rsquo;s most established technical-textile manufacturers: vertically integrated synthetic weavers, engineered-fabric specialists and dedicated coating and lamination houses. Here is what that network can do, category by category.</p>
 
         <div class="net-strip" role="list">
-          <div class="net-stat" role="listitem"><b>Yarn to finished roll</b><span>Weaving, dyeing, finishing, coating and lamination, all within the network</span></div>
+          <div class="net-stat" role="listitem"><b>Yarn to finished roll</b><span>Weaving, dyeing, functional finishing, coating and lamination, all within the network</span></div>
           <div class="net-stat" role="listitem"><b>Nylon &amp; polyester filament</b><span>Including stretch, ripstop and recycled (GRS) options</span></div>
           <div class="net-stat" role="listitem"><b>Up to 126&Prime; wide</b><span>Coating and lamination widths from 42 to 126 inches</span></div>
           <div class="net-stat" role="listitem"><b>Certified partners</b><span>ISO 9001, GRS and Sedex-registered mills in the network</span></div>
@@ -1032,6 +1035,19 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
               <li>Membership of the Indian Technical Textile Association within the network</li>
             </ul>
             <p class="net-why"><b>What it means for you:</b> quality is controlled at the mill and checked again by us against your approved sample and AQL level.</p>
+          </article>
+
+          <article class="net-card net-wide">
+            <span class="net-tag">Category 7</span>
+            <h3>Functional finishes</h3>
+            <ul>
+              <li>Fluorine-free (C0) durable water repellency, a PFAS-free alternative to C6 and C8 chemistry</li>
+              <li>Antimicrobial and anti-odour treatments for base layers, activewear and uniforms</li>
+              <li>Moisture-management finishes that wick sweat and speed up drying</li>
+              <li>PU coating and calendering for water resistance, lower air permeability and a smooth, down-proof face</li>
+              <li>Finishing chemistry from established Indian textile-chemical specialists, applied at our partner mills</li>
+            </ul>
+            <p class="net-why"><b>What it means for you:</b> the performance finish your spec calls for, from fluorine-free DWR to odour control, applied in India and supported by wash-durability test reports.</p>
           </article>
         </div>
 
