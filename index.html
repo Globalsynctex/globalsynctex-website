@@ -935,9 +935,114 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
     </div>
   </section>
 
+  <section class="sec" id="network" aria-labelledby="net-h">
+  <style>
+    .net-grid{margin-top:30px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+    .net-card{background:var(--sheet);border:1px solid var(--line);border-radius:14px;padding:22px 22px 20px;display:flex;flex-direction:column;gap:12px;min-width:0;border-top:3px solid var(--brand)}
+    .net-tag{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+    .net-card h3{font-size:19px;font-weight:650;line-height:1.3;margin:0}
+    .net-card ul{margin:0;padding-left:18px;display:grid;gap:6px;font-size:15.5px;line-height:1.55}
+    .net-card ul li::marker{color:var(--brand)}
+    .net-why{margin:auto 0 0;padding-top:12px;border-top:1px dashed var(--line);font-size:15px;line-height:1.55;color:var(--muted)}
+    .net-why b{color:var(--ink)}
+    .net-strip{margin-top:22px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+    .net-stat{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+    .net-stat b{display:block;font-size:17px;line-height:1.3}
+    .net-stat span{font-size:14px;color:var(--muted);line-height:1.45}
+    .net-note{margin-top:18px;font-size:14.5px;line-height:1.6;color:var(--muted)}
+    @media (max-width:900px){.net-grid{grid-template-columns:1fr}.net-strip{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media (max-width:480px){.net-strip{grid-template-columns:1fr}}
+  </style>
+    <div class="wrap">
+      <div class="sec-label"><span class="num">04</span><span class="label">Our mill network</span></div>
+      <div style="min-width:0">
+        <h2 id="net-h">A sourcing network built on India&rsquo;s strongest technical mills</h2>
+        <p class="intro">We don&rsquo;t source from whoever answers the phone. Our partner network includes some of India&rsquo;s most established technical-textile manufacturers: vertically integrated synthetic weavers, engineered-fabric specialists and dedicated coating and lamination houses. Here is what that network can do, category by category.</p>
+
+        <div class="net-strip" role="list">
+          <div class="net-stat" role="listitem"><b>Yarn to finished roll</b><span>Weaving, dyeing, finishing, coating and lamination, all within the network</span></div>
+          <div class="net-stat" role="listitem"><b>Nylon &amp; polyester filament</b><span>Including stretch, ripstop and recycled (GRS) options</span></div>
+          <div class="net-stat" role="listitem"><b>Up to 126&Prime; wide</b><span>Coating and lamination widths from 42 to 126 inches</span></div>
+          <div class="net-stat" role="listitem"><b>Certified partners</b><span>ISO 9001, GRS and Sedex-registered mills in the network</span></div>
+        </div>
+
+        <div class="net-grid">
+          <article class="net-card">
+            <span class="net-tag">Category 1</span>
+            <h3>Outdoor &amp; performance wovens</h3>
+            <ul>
+              <li>Large, modern synthetic weaving capacity in polyester, nylon and their stretch versions, built for outerwear and sportswear</li>
+              <li>Finishes for breathability, water resistance and wind resistance</li>
+              <li>Part of vertically integrated groups that supply major international apparel brands</li>
+            </ul>
+            <p class="net-why"><b>What it means for you:</b> consistent bulk quality and repeatable shade and handle from season to season, not one-off lots.</p>
+          </article>
+
+          <article class="net-card">
+            <span class="net-tag">Category 2</span>
+            <h3>Engineered technical fabrics</h3>
+            <ul>
+              <li>Woven, coated and laminated nylon and polyester filament fabrics engineered to a performance target</li>
+              <li>Built to measured tensile strength, tear strength, abrasion resistance, air permeability and waterproofing</li>
+              <li>A deep library of proven constructions serving outdoor, industrial, automotive and defence-grade applications</li>
+            </ul>
+            <p class="net-why"><b>What it means for you:</b> you brief us a performance spec, and we match it to a construction that has already been proven in demanding end uses.</p>
+          </article>
+
+          <article class="net-card">
+            <span class="net-tag">Category 3</span>
+            <h3>Coating, lamination &amp; membranes</h3>
+            <ul>
+              <li>Solvent-free hot-melt coating and PUR lamination</li>
+              <li>TPU, TPE, PTFE and PE membranes; fabric-to-fabric, fabric-to-foam and fabric-to-membrane bonding</li>
+              <li>Custom constructions developed to your waterproof, breathable or FR requirement</li>
+              <li>Fast turnaround: lamination job work typically completed 7&ndash;10 days after the base fabric arrives</li>
+            </ul>
+            <p class="net-why"><b>What it means for you:</b> 2-layer, 2.5-layer and 3-layer shells and laminated workwear fabrics sourced in India, with the base fabric and the laminator coordinated by one agent.</p>
+          </article>
+
+          <article class="net-card">
+            <span class="net-tag">Category 4</span>
+            <h3>Workwear &amp; protective</h3>
+            <ul>
+              <li>Fire-retardant, waterproof and breathable laminates developed specifically for workwear</li>
+              <li>High-tenacity, abrasion-resistant coated wovens for heavy-duty use</li>
+              <li>Mills with experience supplying industrial and defence-grade fabric programmes</li>
+            </ul>
+            <p class="net-why"><b>What it means for you:</b> protective fabrics from mills that already engineer to strict performance specs, with test reports shared before bulk.</p>
+          </article>
+
+          <article class="net-card">
+            <span class="net-tag">Category 5</span>
+            <h3>Sustainable technical fabrics</h3>
+            <ul>
+              <li>GRS-certified recycled polyester inputs with scope certificates</li>
+              <li>Solvent-free coating that uses no water or solvent carriers</li>
+              <li>Mills investing in energy- and water-efficient production and waste reduction</li>
+            </ul>
+            <p class="net-why"><b>What it means for you:</b> lower-impact options you can document, with certificates shared alongside each quotation.</p>
+          </article>
+
+          <article class="net-card">
+            <span class="net-tag">Category 6</span>
+            <h3>Quality systems &amp; compliance</h3>
+            <ul>
+              <li>ISO 9001:2015 quality management and Sedex-registered partners</li>
+              <li>Mill laboratories and in-house fabric inspection</li>
+              <li>Membership of the Indian Technical Textile Association within the network</li>
+            </ul>
+            <p class="net-why"><b>What it means for you:</b> quality is controlled at the mill and checked again by us against your approved sample and AQL level.</p>
+          </article>
+        </div>
+
+        <p class="net-note">Partner mill names, certificates and capability documents are shared with each quotation. Capabilities vary by mill, and every claim is confirmed by testing for your specific order.</p>
+      </div>
+    </div>
+  </section>
+
   <section class="sec" id="testing" aria-labelledby="test-h">
     <div class="wrap">
-      <div class="sec-label"><span class="num">04</span><span class="label">Testing &amp; compliance</span></div>
+      <div class="sec-label"><span class="num">05</span><span class="label">Testing &amp; compliance</span></div>
       <div style="min-width:0">
         <h2 id="test-h">We speak the language of your QA team</h2>
         <p class="intro">Performance claims mean little without a test method behind them. We agree the methods and pass levels with you up front, then collect lab reports from the mill or an independent lab before bulk starts.</p>
@@ -997,7 +1102,7 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
 
   <section class="sec" id="process" aria-labelledby="process-h">
     <div class="wrap">
-      <div class="sec-label"><span class="num">05</span><span class="label">How we work</span></div>
+      <div class="sec-label"><span class="num">06</span><span class="label">How we work</span></div>
       <div style="min-width:0">
         <h2 id="process-h">One contact from tech pack to shipment</h2>
         <p class="intro">You deal with one person who knows your brief. We handle the mills, the follow-up and the paperwork.</p>
@@ -1030,7 +1135,7 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
 
   <section class="sec" id="insights" aria-labelledby="ins-h">
     <div class="wrap">
-      <div class="sec-label"><span class="num">06</span><span class="label">Sourcing insights</span></div>
+      <div class="sec-label"><span class="num">07</span><span class="label">Sourcing insights</span></div>
       <div style="min-width:0">
         <h2 id="ins-h">Notes from the sourcing desk</h2>
         <p class="intro">Short pieces from our founder on what buyers and Indian mills need from each other. Full posts are on LinkedIn.</p>
@@ -1051,7 +1156,7 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
 
   <section class="sec" id="about" aria-labelledby="about-h">
     <div class="wrap">
-      <div class="sec-label"><span class="num">07</span><span class="label">About us</span></div>
+      <div class="sec-label"><span class="num">08</span><span class="label">About us</span></div>
       <div style="min-width:0">
         <h2 id="about-h">Built on 25 years inside Indian textiles</h2>
         <div class="founder">
@@ -1091,7 +1196,7 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
 
   <section class="sec" id="faq" aria-labelledby="faq-h">
     <div class="wrap">
-      <div class="sec-label"><span class="num">08</span><span class="label">Questions</span></div>
+      <div class="sec-label"><span class="num">09</span><span class="label">Questions</span></div>
       <div style="min-width:0">
         <h2 id="faq-h">Questions buyers ask us</h2>
         <div class="faq">
@@ -1109,7 +1214,7 @@ h1,h2,h3{font-family:var(--display);font-stretch:100%;font-weight:500;letter-spa
 
   <section class="sec" id="enquire" aria-labelledby="enq-h">
     <div class="wrap">
-      <div class="sec-label"><span class="num">09</span><span class="label">Enquire</span></div>
+      <div class="sec-label"><span class="num">10</span><span class="label">Enquire</span></div>
       <div style="min-width:0">
         <h2 id="enq-h">Send us one fabric you need</h2>
         <p class="intro">Fill in what you know. We&rsquo;ll come back with Indian options to compare.</p>
